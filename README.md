@@ -7,15 +7,15 @@ This information can be used if an alternate company wants to bid against SpaceX
 This dataset includes a record for each payload carried during a SpaceX mission into outer space.
 
 # Summary of methodologies
-Data Collection using SpaceX API 
-Data Collection with Web Scraping
-Data Wrangling
-Exploratory Data Analysis using SQL 
-EDA DataViz Using Python Pandas and Matplotlib 
-Launch Sites Analysis with Folium-Interactive Visual Analytics and Ploty Dash 
-Machine Learning Landing Prediction
+- Data Collection using SpaceX API 
+- Data Collection with Web Scraping
+- Data Wrangling
+- Exploratory Data Analysis using SQL 
+- EDA DataViz Using Python Pandas and Matplotlib 
+- Launch Sites Analysis with Folium-Interactive Visual Analytics and Ploty Dash 
+- Machine Learning Landing Prediction
 # Summary of all results
-Exploratory Data Analysis results
-Interactive Visual Analytics and Dashboards 
-Predictive Analysis
+- Exploratory Data Analysis results
+- Interactive Visual Analytics and Dashboards 
+- Predictive Analysis
 
